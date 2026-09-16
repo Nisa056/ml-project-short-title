@@ -2,7 +2,6 @@
 
 ## Team Members
 - Jannatun Nisa
-- Khurshid Jahan Nirala
 
 ## Problem Idea
 This project aims to explore student performance using machine learning.
